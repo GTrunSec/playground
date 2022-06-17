@@ -1,6 +1,6 @@
 # README
 
-You may find the example [here](https://github.com/GTrunSec/jlrs-playrground.git)
+You may find the example [here](https://github.com/JuliaCN/Julia2Nix.jl/tree/main/templates/jlrs).
 
 ## Plot
 
